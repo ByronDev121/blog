@@ -1,0 +1,11 @@
+.article-text {
+  font-size: x-large;
+  font-weight: 400;
+}
+
+@media (max-width: 768px) {
+  .article-text {
+    font-size: medium;
+    font-weight: 400;
+  }
+}
